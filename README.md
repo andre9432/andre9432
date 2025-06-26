@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello!👋
+
+- I love to write low level programs.
+- My interests include networking, graphics programming, systems programming, and electronics.
+- Currently working on a wallpaper animation program for Windows.
+- Currently I am learning Vulkan.
+- Reach me by: andreipetrescu221@gmail.com
+
+Let's build cool things. 😎
 
 <!--
 **andre9432/andre9432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
