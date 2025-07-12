@@ -1,7 +1,7 @@
 ## Hello!👋
 
 - I love to write low level programs.
-- My interests include networking, graphics programming, systems programming, and electronics.
+- My interests include graphics programming, systems programming, and electronics.
 - Currently working on a wallpaper animation program for Windows.
 - Currently I am learning Vulkan.
 - Reach me by: andreipetrescu221@gmail.com
